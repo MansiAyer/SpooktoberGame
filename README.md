@@ -8,7 +8,7 @@ I'm quite a beginner, so I'm trying to make a really simple game to begin with. 
 
 **Game Objective**
 
-Skeletal needs to collect a minimum number of calcium capsules from the available capsules scattered around the graveyard. This allows skeletal to access the central tomb, inside which there is a trumpet. These two tasks need to be done before the safe zone shrinks and skeletal gets preyed upon by ghouls.  Skeletal wins if it is able to doot in time. 
+Skeletal needs to collect a minimum number of calcium capsules from the available capsules scattered around the graveyard. This allows skeletal to access the central tomb, inside which there is a trumpet. Skeletal must doot. These two tasks need to be done before the safe zone shrinks and skeletal gets preyed upon by ghouls.  Skeletal wins if it is able to doot in time. 
 
 **Plan Changes**
 
